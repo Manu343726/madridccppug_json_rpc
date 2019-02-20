@@ -191,5 +191,6 @@ QA?
 ===
 
  - https://github.com/Manu343726/tinyrefl
+ - https://github.com/Manu343726/madridccppug_json_rpc
  - https://github.com/madridccppug/meetups
  - ["Que es el movimiento de semantica?"](https://www.google.com/search?q=movimiento+de+semantica&oq=movimiento+de+semantica&aqs=chrome..69i57.3718j0j7&sourceid=chrome&ie=UTF-8)
